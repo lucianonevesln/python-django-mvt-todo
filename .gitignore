@@ -1,0 +1,13 @@
+app_api/__pycache__/
+
+app_api/migrations/__pycache__/
+
+app_frontend/__pycache__/
+
+app_frontend/migrations/__pycache__/
+
+todo/__pycache__/
+
+venv/
+
+anotacoes.txt
